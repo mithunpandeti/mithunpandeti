@@ -6,6 +6,7 @@
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./Icons/js_icon.png" alt="javascript" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="./Icons/vuejs-icon.png" alt="vuejs" width="40" height="40"/></a>
+  <a href="https://business.adobe.com/products/experience-manager/sites/aem-sites.html" target="_blank" rel="noreferrer"> <img src="./Icons/aem-icon.png" alt="aem" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./Icons/tailwind-css-icon.png" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="./Icons/php-icon.png" alt="php" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./Icons/mysql-icon.png" alt="mysql" width="40" height="40"/></a>
