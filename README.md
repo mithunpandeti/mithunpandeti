@@ -10,7 +10,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./Icons/tailwind-css-icon.png" alt="tailwind" width="40" height="40"/></a>&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="./Icons/php-icon.png" alt="php" width="40" height="40"/></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./Icons/mysql-icon.png" alt="mysql" width="40" height="40"/></a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./Icons/github-icon.png" alt="github" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./Icons/github-icon.png" alt="github" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="./Icons/java-icon.png" alt="java" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="./Icons/npm-icon.png" alt="npm" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="./Icons/postman-icon.png" alt="postman" width="40" height="40"/></a>&nbsp;
+  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="./Icons/docker-icon.png" alt="docker" width="40" height="40"/></a>
 </p>
 
 <h3>I have also worked with ...</h3>
@@ -21,6 +25,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./Icons/react-js-icon.png" alt="react" width="40" height="40"/></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/aspnet/core/getting-started/" target="_blank" rel="noreferrer"> <img src="./Icons/NET_Core_Logo.png" alt="Dotnetcore" width="40" height="40"/></a>&nbsp;
   <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="./Icons/AzDo-icon.png" alt="AzDo" width="40" height="40"/></a>&nbsp;
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="./Icons/node-icon.png" alt="node" width="40" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="./Icons/html-icon.png" alt="html5" width="40" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="./Icons/cdd-icon.png" alt="css3" width="40" height="40"/></a>&nbsp;
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="./Icons/redux-logo.png" alt="redux" width="40" height="40"/></a>
 </p>
 
