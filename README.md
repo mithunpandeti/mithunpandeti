@@ -4,7 +4,7 @@
 <h3>Currently I am working with ...</h3>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/js_icon.png" alt="javascript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding-right: 5px;"> <img src="./Icons/js_icon.png" alt="javascript" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/vuejs-icon.png" alt="vuejs" width="40" height="40"/></a>
   <a href="https://business.adobe.com/products/experience-manager/sites/aem-sites.html" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/aem-logo.png" alt="aem" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/tailwind-css-icon.png" alt="tailwind" width="40" height="40"/></a>
