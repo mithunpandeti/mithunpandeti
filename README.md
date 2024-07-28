@@ -22,3 +22,10 @@
 </p>
 
 <h3>You can also find me on ...</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/mithunkumarpandeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   
+  alt="mithunkumarpandeti" height="30" width="40" /></a>
+  <a href="https://instagram.com/mithunkumar_pandeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+  alt="mithunkumar_pandeti" height="30" width="40" /></a>
+</p>
