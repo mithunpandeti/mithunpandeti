@@ -24,6 +24,6 @@
 <h3>You can also find me on ...</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/mithunkumarpandeti" target="blank"><img align="center" src="./Icons/linkedin-logo.png" alt="mithunkumarpandeti" height="30" width="40" /></a>
-  <a href="https://instagram.com/mithunkumar_pandeti" target="blank"><img align="center" src="./Icons/instagram-logo.png" alt="mithunkumarpandeti" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mithunkumarpandeti" target="blank"><img align="center" src="./Icons/linkedin-logo.png" alt="mithunkumarpandeti" height="40" width="40" /></a>
+  <a href="https://instagram.com/mithunkumar_pandeti" target="blank"><img align="center" src="./Icons/instagram-logo.png" alt="mithunkumarpandeti" height="40" width="40" /></a>
 </p>
