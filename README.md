@@ -27,7 +27,7 @@
   <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="./Icons/AzDo-icon.png" alt="AzDo" width="40" height="40"/></a>&nbsp;
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="./Icons/node-icon.png" alt="node" width="40" height="40"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="./Icons/html-icon.png" alt="html5" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="./Icons/cdd-icon.png" alt="css3" width="40" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="./Icons/css-icon.png" alt="css3" width="40" height="40"/></a>&nbsp;
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="./Icons/redux-logo.png" alt="redux" width="40" height="40"/></a>
 </p>
 
