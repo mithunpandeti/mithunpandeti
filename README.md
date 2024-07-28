@@ -13,7 +13,7 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./Icons/github-icon.png" alt="github" width="40" height="40"/></a>&nbsp;
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="./Icons/java-icon.png" alt="java" width="40" height="40"/></a>&nbsp;
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="./Icons/npm-icon.png" alt="npm" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="./Icons/postman-icon.png" alt="postman" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="./Icons/postman-logo.png" alt="postman" width="40" height="40"/></a>&nbsp;
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="./Icons/docker-icon.png" alt="docker" width="40" height="40"/></a>
 </p>
 
