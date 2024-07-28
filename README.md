@@ -19,7 +19,7 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/angular-icon.png" alt="angular" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/azure-icon.png" alt="azure" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/react-js-icon.png" alt="react" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/getting-started/" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/NET_Core_Logo.png" alt="Dotnetcore" width="70" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/getting-started/" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/NET_Core_Logo.png" alt="Dotnetcore" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/AzDo-icon.png" alt="AzDo" width="40" height="40"/></a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer" style="padding-right:5px"> <img src="./Icons/redux-logo.png" alt="redux" width="40" height="40"/></a>
 </p>
