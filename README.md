@@ -10,7 +10,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="./Icons/tailwind-css-icon.png" alt="tailwind" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="./Icons/php-icon.png" alt="php" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./Icons/mysql-icon.png" alt="mysql" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./Icons/github-icon.png" alt="mysql" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="./Icons/github-icon.png" alt="github" width="40" height="40"/></a>
 </p>
 
 <h3>I have also worked with ...</h3>
@@ -20,6 +20,8 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="./Icons/azure-icon.png" alt="azure" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./Icons/react-js-icon.png" alt="react" width="40" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/aspnet/core/getting-started/" target="_blank" rel="noreferrer"> <img src="./Icons/dotnet-icon.png" alt="Dotnetcore" width="70" height="40"/>
+  <a href="https://azure.microsoft.com/en-us/products/devops" target="_blank" rel="noreferrer"> <img src="./Icons/AzDo-icon.png" alt="AzDo" width="40" height="40"/>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="./Icons/redux-logo.png" alt="redux" width="40" height="40"/>
 </p>
 
 <h3>You can also find me on ...</h3>
