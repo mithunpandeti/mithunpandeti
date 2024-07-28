@@ -1,5 +1,5 @@
 <h1 align="left">Hi there👋, I'm Mithun Kumar Pandeti</h1>
-<p align="left">I am a full stack developer from India. Currently, I'm working at <a href="https://www.nyc.gov/site/opportunity/index.page">@NYCOpportunity</a>. Previously, at Accenture</p>
+<p align="left">I am a full stack developer from India. Currently, I'm working at <a href="https://github.com/NYCOpportunity">@NYCOpportunity</a>. Previously, at Accenture</p>
 
 <h3>Currently I am working with ...</h3>
 
